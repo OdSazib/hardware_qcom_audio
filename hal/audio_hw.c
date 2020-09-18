@@ -73,6 +73,7 @@
 #include "platform_api.h"
 #include <platform.h>
 #include "audio_extn.h"
+#include "audio_extn/audio_extn.h"
 #include "voice_extn.h"
 #include "ip_hdlr_intf.h"
 #include "audio_amplifier.h"
